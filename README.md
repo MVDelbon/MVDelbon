@@ -1,9 +1,9 @@
 <h1 align="center">Hola, mi nombre es Maria Victoria</h1>
 <h3 align="center">Soy desarrolladora Full Stack!</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, NodeJS, mySQL**
+- 💬 Preguntame sobre **HTML, CSS, JavaScript, React, Angular, NodeJS, mySQL**
 
-- 📫 How to reach me **totidelbon@gmail.com**
+- 📫 Contactame a **totidelbon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
