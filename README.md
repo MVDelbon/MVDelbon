@@ -1,14 +1,107 @@
-<h1 align="center">Hola, mi nombre es Maria Victoria</h1>
-<h3 align="center">Soy desarrolladora Full Stack!</h3>
+<h1 align="center">Hola 👋 Soy Maria Victoria</h1>
 
-- 💬 Preguntame sobre **HTML, CSS, JavaScript, React, Angular, NodeJS, mySQL**
+<h3 align="center">
+Full Stack Developer • Automation • IA Workflows
+</h3>
 
-- 📫 Contactame a **totidelbon2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mvictoriadelbon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mvictoriadelbon" height="30" width="40" /></a>
+<p align="center">
+Desarrolladora especializada en aplicaciones web modernas, automatizaciones, integraciones y experiencias digitales escalables.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
+
+<div align="center">
+
+<a href="https://mvdelbon.github.io/portafolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mvictoriadelbon/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:totidelbon2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2>🚀 Sobre mí</h2>
+
+<ul>
+  <li>💻 Desarrollo aplicaciones web modernas y escalables</li>
+  <li>⚡ Frontend y Backend con foco en experiencia y arquitectura</li>
+  <li>🤖 Automatizaciones, IA Workflows y sistemas integrados</li>
+  <li>🔌 APIs, WebSockets y soluciones en tiempo real</li>
+  <li>🛠️ Desarrollo Full Stack con tecnologías modernas</li>
+</ul>
+
+---
+
+<h2>⚡ Stack Tecnológico</h2>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,go,nodejs,mysql,git" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebSockets-111111?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=FF6D5A"/>
+
+<img src="https://img.shields.io/badge/IA_Workflows-111111?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2>📊 GitHub Activity</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MVDelbon&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MVDelbon&theme=tokyonight"/>
+
+</div>
+
+---
+
+<h2>📫 Contacto</h2>
+
+<div align="center">
+
+📧 <b>Email:</b> totidelbon2@gmail.com
+
+<br/><br/>
+
+🌐 <b>Portfolio:</b><br/>
+<a href="https://mvdelbon.github.io/portafolio/">
+mvdelbon.github.io/portafolio
+</a>
+
+<br/><br/>
+
+💼 <b>LinkedIn:</b><br/>
+<a href="https://www.linkedin.com/in/mvictoriadelbon/">
+linkedin.com/in/mvictoriadelbon
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Gracias por visitar mi perfil ✨
+
+</div>
